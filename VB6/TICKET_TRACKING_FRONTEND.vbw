@@ -1,0 +1,13 @@
+frmHomepage = 0, 0, 725, 389, C, 26, 26, 162, 335, C
+frmLogin = 0, 0, 725, 389, C, 52, 52, 777, 441, C
+LoginClass = 78, 78, 803, 467, Z
+DBConnectionClass = 104, 104, 829, 493, C
+GeneralModule = 156, 156, 881, 545, 
+LoadDepartmentClass = 0, 0, 777, 236, C
+frmMenupage = 130, 130, 881, 453, , 104, 104, 855, 427, C
+frmViewTicket = 104, 104, 855, 427, C, 78, 78, 829, 401, C
+LoadTickets = 78, 78, 829, 401, 
+frmCreateTicket = 130, 130, 881, 453, C, 104, 104, 855, 427, C
+frmCloseTicket = 130, 130, 881, 453, C, 52, 52, 803, 375, C
+frmReport = 26, 26, 751, 342, , 156, 156, 855, 534, C
+MDIHomepage = 78, 78, 829, 358, , 52, 52, 803, 332, C

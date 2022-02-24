@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=TICKET_TRACKING_FRONTEND.vbp
+Project=PasswordCheckDll.vbp
+Project=Configuration.vbp
